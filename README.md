@@ -11,3 +11,5 @@ There are also enemies in the form of dwarves who move around the level, some mo
 
 
 At each stage there are also a random number of gifts, some good gifts like extra time or disappearing the dwarves and some bad gifts like reducing time.
+
+Demo of the game: https://www.youtube.com/watch?v=LMDf_5YIQlA&ab_channel=ElemenTal
