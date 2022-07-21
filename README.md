@@ -1,6 +1,6 @@
 # Save the King
 
-The game has a number of level with increasing difficulty.
+The game has a number of levels with increasing difficulty.
 At each level the goal is to reach the throne with the king. 
 In order to di this the player has to overcome various obstacles.
 
