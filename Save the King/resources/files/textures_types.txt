@@ -1,0 +1,15 @@
+king.png
+mage.png
+warrior.png
+thief.png
+wall.png
+gate.png
+fire.png
+orc.png
+key.png
+teleport.png
+throne.png
+dwarf.png
+gift.png
+background.jpg
+back.png

@@ -1,0 +1,16 @@
+wall.wav
+open_door.wav
+locked_door.wav
+gift.wav
+sword.wav
+teleport.wav
+fire.wav
+key.wav
+orc.wav
+level_won.wav
+time_over.wav
+menu_hover.wav
+menu_click.wav
+music.wav
+step.wav
+burn.wav
